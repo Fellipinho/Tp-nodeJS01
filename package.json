@@ -1,0 +1,29 @@
+{
+  "name": "tp-nodejs01",
+  "version": "1.0.0",
+  "description": "Primeiro projeto NODEJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fellipinho/Tp-nodeJS01.git"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "técnicas",
+    "de",
+    "programação"
+  ],
+  "author": "Fellipe Pires de Carvalho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fellipinho/Tp-nodeJS01/issues"
+  },
+  "homepage": "https://github.com/Fellipinho/Tp-nodeJS01#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
